@@ -1,0 +1,18 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - networkx
+  - pandas
+  - sklearn
+  - sklearn.ensemble
+  - sklearn.model_selection
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
